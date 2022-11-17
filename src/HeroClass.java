@@ -18,8 +18,8 @@ public class HeroClass extends FighterClass {
         return gold;
     }
     public void receiveAward(int monsterStrength){
-        // прирост золота количественно равен силе убитого монстра
-        gold += monsterStrength;
+        // прирост золота количественно равен силе убитого монстра * 2.5
+        gold += monsterStrength * 2.5;
         // прирост опыта - 1/10 силы убитого монстра
         experience += monsterStrength / 10;
     }

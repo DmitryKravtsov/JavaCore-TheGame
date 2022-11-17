@@ -67,7 +67,7 @@ public class MainGameCycle {
             }
             if (!ourHero.isDestroyed()) {
                 // герой получает золото и опыт соответственно силе убитого монстра
-                ourHero.receiveAward((int) (theMonster.getStrength() * 2.5));
+                ourHero.receiveAward((int) (theMonster.getStrength()));
                 System.out.println(ourHero.getName() + " wins!\n");
                 /// здесь надо дать выбор возврата в гл.меню или снова в бой
                 boolean choiceFinished = false;
@@ -153,12 +153,6 @@ public class MainGameCycle {
                                + " potion and improved his health for " + deltaHP
                                + " points!\n");
         }
-    }
-
-    boolean createHero(){
-        boolean createdSuccessfully = false;
-        String heroName = "";
-        return createdSuccessfully;
     }
 
 }
