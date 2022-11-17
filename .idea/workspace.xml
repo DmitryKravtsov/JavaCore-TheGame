@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95a78c12-f10f-467f-9ef7-2916083c06f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TheGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TheGame/BattleProcess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TheGame/FighterClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TheGame/GameUnit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TheGame/GoblinClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TheGame/HeroClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TheGame/MainGameCycle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TheGame/Potions.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TheGame/SkeletonClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/TheGame/TheGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BattleProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FighterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GoblinClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HeroClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainGameCycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Potions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SkeletonClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TheGame.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HaMcUkQ0QsUc3TgQBeVxOLwCrO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/work/SkillFactory/Java_CORE/Final-Project/TheGame",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="TheGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheGame" />
+      <module name="TheGame" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TheGame" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95a78c12-f10f-467f-9ef7-2916083c06f3" name="Changes" comment="" />
+      <created>1668518822844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668518822844</updated>
+      <workItem from="1668518824372" duration="8813000" />
+      <workItem from="1668603199569" duration="2791000" />
+      <workItem from="1668607003397" duration="10835000" />
+      <workItem from="1668673066023" duration="1980000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
